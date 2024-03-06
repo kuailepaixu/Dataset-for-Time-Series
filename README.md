@@ -5,7 +5,7 @@
   
 Weather is recorded every 10 minutes for 2020 whole year, which contains 21 meteorological indicators, such as air temperature, humidity, etc.
 
-2. Traffic--频率：hourly/周期：2016/7/1 02：00-2018/7/2 01:00
+2. Traffic--频率：hourly/周期：2016/7/1 02：00-2018/7/2 01:00  （traffic数据集过大未上传GitHub，[可网盘下载](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy"数据集地址")）
   
 Traffic collects hourly road occupancy rates measured by 862 sensors of San Francisco Bay area freeways.
 
